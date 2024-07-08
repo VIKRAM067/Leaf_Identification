@@ -1,19 +1,18 @@
-# Foliage Classifier and Article Summarizer
+# Foliage Classifier 
 
 This project combines image classification and article summarization using TensorFlow/Keras for image prediction and RapidAPI for article summarization. It includes a backend developed with FastAPI and a frontend built with React.js and Redux, with Firebase Firestore for database operations.
 
 ## Features
 
 - **Image Classification**: Utilizes a pre-trained TensorFlow/Keras model to classify foliage images into specific classes.
-- **Article Summarization**: Integrates with RapidAPI to summarize articles retrieved via URL inputs.
 - **Firebase Firestore**: Stores and retrieves data using Firebase Firestore for seamless data management.
 
 ## Technologies Used
 
 - **Backend**: FastAPI, TensorFlow/Keras, Firebase Firestore
-- **Frontend**: React.js, Redux
+- **Frontend**: React.js
 - **Database**: Firebase Firestore
-- **API Integration**: RapidAPI
+
 
 ## Getting Started
 
